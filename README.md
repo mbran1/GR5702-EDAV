@@ -1,2 +1,2 @@
-# GR5702-EDAV
+# RStudio Cheatsheet
 RStudio cheatsheet for GR5702
